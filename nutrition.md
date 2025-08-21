@@ -1,26 +1,49 @@
-# Kosthold – prinsipper
+# 🍽️ Nutrition – prinsipper
 
 ## Mål
-Støtte rask, trygg vektnedgang og senke LDL.
+- Gå ned til 75 kg (fra 97 kg).  
+- Redusere LDL-kolesterol og bedre lipidprofil.  
+- Holde energinivå og muskelmasse oppe under vektreduksjon.  
 
-## Grunnregler
-- **Fiber:** 30–40 g/dag (havre/bygg, belgfrukter, grønnsaker, grovt brød).
-- **Protein:** 1,6–2,0 g/kg/dag (magert kjøtt/fisk/egg/meieri/proteinrik yoghurt).
-- **Fett:** vri mot umettet (oliven-/rapsolje, nøtter, fisk). Minimer smør/fete oster.
-- **Sukkerdrikker:** kutt som standarddrikk. Vann/kaffe/te er default.
-- **Alkohol:** begrens til små mengder i helg.
+---
 
-## Praktiske grep
-- **Frokost:** havregrøt eller grovt brød + protein (egg/kesam) + grønt.
-- **Lunsj/middag:** ½ tallerken grønt, ¼ protein, ¼ fullkorn/rot.
-- **Fisk:** 2–3 måltider/uke eller 1–2 g omega-3 daglig.
-- **Nøtter:** ca. 30 g/dag (usaltede).
-- **Fail-safe:** frys fiskefileter, grønnsaksblandinger, ferdigkokte linser/bønner.
+## Basis
+- **Protein:** minst 1,6–2,0 g/kg kroppsvekt/dag.  
+- **Fiber:** 30–40 g/dag (havre, grønnsaker, belgvekster, grovt brød).  
+- **Fett:** mer umettet (olivenolje, fisk, nøtter) – mindre mettet (smør, fete oster, rødt kjøtt).  
+- **Sukker/ultraprosessert:** minimal bruk.  
 
-## Struktur
-- 2–3 hovedmåltider + 1 enkel snack ved behov.
-- Handleliste-basert ukeplan for forutsigbarhet.
+---
 
-## Ekstra LDL-dytt (valgfritt)
-- 1 ss psyllium-husk til måltid.
-- Plante-sterol-beriket pålegg/margarin (etter smak/behag).
+## Måltidsstruktur (standard)
+- **3–4 måltider/dag** med balansert fordeling av protein og fiber.  
+- Fokus på enkel, næringstett mat.  
+- Kveldsmat med protein (kesam, egg) for å unngå cravings.  
+
+---
+
+## Valgfritt verktøy: Faste
+Faste kan brukes som en enkel ramme for å redusere kaloriinntak. Det er ikke nødvendig, men kan være nyttig.
+
+### Metoder
+- **16:8 (intermittent fasting):** Spis alle måltider innenfor et 8-timers vindu, f.eks. kl. 12–20.  
+- **Tidlig spisevindu:** Spis mellom 08–16 (gunstig for blodsukker og kolesterol i noen studier).  
+- **5:2-dietten:** To dager/uke med lavt kaloriinntak (500–600 kcal), resten av uka normal sunn kost.  
+
+### Retningslinjer
+- Sørg for at **protein og fiberbehov** dekkes selv om spisevinduet er kortere.  
+- Bruk faste kun dersom det gjør hverdagen enklere og støtter vektnedgang.  
+- Ikke kombiner harde fastedager med tunge treningsøkter.  
+- Vann, kaffe og te uten sukker/melk er tillatt i fastetiden.  
+
+### Eksempel (16:8)
+- **12:00**: Lunsj – grovt brød m/egg + grønnsaker.  
+- **16:00**: Middag – fisk + potet + grønnsaker.  
+- **19:30**: Kveldsmat – cottage cheese m/bær.  
+
+---
+
+## Oppfølging
+- Vektnedgang: 0,5–1,0 kg/uke.  
+- Kolesterol: nytt blodprøvesett ved 3, 6 og 12 mnd.  
+- Energi/mental status logges i uke-LOGG.
