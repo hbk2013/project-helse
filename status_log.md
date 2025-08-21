@@ -5,7 +5,7 @@ Fyll ut en ny seksjon ved hver ny helsesjekk (f.eks. hver 3.–6. måned).
 
 ---
 
-## 📅 Eksempel (baseline 2025-08-20)
+## 📅 Baseline (2025-08-20)
 
 | Parameter         | Resultat | Status | Kommentar |
 |-------------------|----------|--------|------------|
@@ -20,7 +20,37 @@ Fyll ut en ny seksjon ved hver ny helsesjekk (f.eks. hver 3.–6. måned).
 
 ---
 
-## 📅 Ny måling (år-mnd-dag)
+## 📅 3 mnd (2025-11)
+
+| Parameter         | Resultat | Status | Kommentar |
+|-------------------|----------|--------|------------|
+| Totalkolesterol   | … mmol/L | … | … |
+| LDL-kolesterol    | … mmol/L | … | … |
+| HDL-kolesterol    | … mmol/L | … | … |
+| Triglyserider     | … mmol/L | … | … |
+| Vekt              | … kg | … | … |
+| BMI               | … | … | … |
+| Blodtrykk         | … / … | … | … |
+| Midjeomkrets      | … cm | … | … |
+
+---
+
+## 📅 6 mnd (2026-02)
+
+| Parameter         | Resultat | Status | Kommentar |
+|-------------------|----------|--------|------------|
+| Totalkolesterol   | … mmol/L | … | … |
+| LDL-kolesterol    | … mmol/L | … | … |
+| HDL-kolesterol    | … mmol/L | … | … |
+| Triglyserider     | … mmol/L | … | … |
+| Vekt              | … kg | … | … |
+| BMI               | … | … | … |
+| Blodtrykk         | … / … | … | … |
+| Midjeomkrets      | … cm | … | … |
+
+---
+
+## 📅 12 mnd (2026-08)
 
 | Parameter         | Resultat | Status | Kommentar |
 |-------------------|----------|--------|------------|
@@ -36,6 +66,7 @@ Fyll ut en ny seksjon ved hver ny helsesjekk (f.eks. hver 3.–6. måned).
 ---
 
 🔑 **Tips:**  
-- Kopier "Ny måling"-tabellen og fyll ut ved hver kontroll.  
+- Kopier tabellene videre hvis du gjør ekstra målinger mellom milepælene.  
 - Bruk 🔴, 🟡, 🟢 for å markere status.  
-- Legg inn korte kommentarer (f.eks. “+bedre”, “–økt risiko”).  
+- Kommentarfeltet kan også brukes til å notere tiltak (f.eks. “økt trening”, “bedre kost”).  
+
