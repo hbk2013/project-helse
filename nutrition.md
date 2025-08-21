@@ -1,23 +1,26 @@
 # Kosthold – prinsipper
 
-## Overordnet
-Mål: støtte vektnedgang, senke LDL-kolesterol, og gi energi.
+## Mål
+Støtte rask, trygg vektnedgang og senke LDL.
 
 ## Grunnregler
-- **Fiber:** 30–40 g/dag (havre, belgfrukter, grønnsaker, grovt brød).
-- **Protein:** 1,5–2 g/kg/dag for metthet og muskelbevaring.
-- **Fett:** vri mot umettet (oliven/rapsolje, nøtter, fisk).
-- **Reduser:** smør, fete oster, prosessert kjøtt.
-- **Kutt:** sukkerdrikker som standarddrikk (vann som base).
-- **Alkohol:** maks 1–2 helgekvelder, små mengder.
+- **Fiber:** 30–40 g/dag (havre/bygg, belgfrukter, grønnsaker, grovt brød).
+- **Protein:** 1,6–2,0 g/kg/dag (magert kjøtt/fisk/egg/meieri/proteinrik yoghurt).
+- **Fett:** vri mot umettet (oliven-/rapsolje, nøtter, fisk). Minimer smør/fete oster.
+- **Sukkerdrikker:** kutt som standarddrikk. Vann/kaffe/te er default.
+- **Alkohol:** begrens til små mengder i helg.
 
 ## Praktiske grep
-- Start dagen med havregrøt, grovt brød eller proteinrik frokost.
-- Minst én “grønn tallerken” (½ grønnsaker) daglig.
-- Fisk 2–3 ganger/uke eller omega-3-tilskudd.
-- Nøtter (ca. 30 g/dag) som snack eller topping.
-- Ha enkle “fail-safe”-måltider i fryser (fisk, grønnsaksblandinger, linser).
+- **Frokost:** havregrøt eller grovt brød + protein (egg/kesam) + grønt.
+- **Lunsj/middag:** ½ tallerken grønt, ¼ protein, ¼ fullkorn/rot.
+- **Fisk:** 2–3 måltider/uke eller 1–2 g omega-3 daglig.
+- **Nøtter:** ca. 30 g/dag (usaltede).
+- **Fail-safe:** frys fiskefileter, grønnsaksblandinger, ferdigkokte linser/bønner.
 
 ## Struktur
-- 2–3 hovedmåltider + 1 enkel snack.
-- Handleliste-basert ukeplan gir forutsigbarhet.
+- 2–3 hovedmåltider + 1 enkel snack ved behov.
+- Handleliste-basert ukeplan for forutsigbarhet.
+
+## Ekstra LDL-dytt (valgfritt)
+- 1 ss psyllium-husk til måltid.
+- Plante-sterol-beriket pålegg/margarin (etter smak/behag).
