@@ -26,3 +26,7 @@ Mål: Redusere vekt og kolesterol på en trygg, realistisk og målbar måte.
 - Evaluer milepæler hver 3. måned
 - Ny blodprøve: innen 12 uker
 
+
+## 🔒 Personvern
+Dette repoet kan inneholde helsedata. Hold repo **privat**.  
+Ikke commit rådata (bruk `data/` som er ignorert av git).
