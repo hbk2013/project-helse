@@ -1,70 +1,61 @@
-# Uke-LOGG (2025-34)
+# Uke-LOGG (2025-WXX)
 
-| Parameter        | Verdi       |
-|------------------|-------------|
-| Vekt (uke-start) | … kg        |
-| Midje            | … cm        |
-| Mål              | Etterlevelse ≥ 85 % |
+**Vekt:** … kg  
+**Midje:** … cm  
+**Min/uke (aktivitet):** …  
+**Søvn (snitt):** … t  
+**Etterlevelse kost (%):** … %
 
 ---
 
 ## Aktivitet
-
-| Dag | Aktivitet (type + min) | Styrke (øvelser) | Kommentar |
-|-----|-------------------------|------------------|-----------|
-| Man | …                       | …                | …         |
-| Tir | …                       | …                | …         |
-| Ons | …                       | …                | …         |
-| Tor | …                       | …                | …         |
-| Fre | …                       | …                | …         |
-| Lør | …                       | …                | …         |
-| Søn | …                       | …                | …         |
-| **Eksempel** | Gange 45 min | – | Frisk tur |
-
-| **Sum aktivitet** | … min | **Styrkeøkter:** … / 2–3 |           |
+| Dag  | Aktivitet         | Varighet | Kommentar        |
+|------|------------------|----------|------------------|
+| Man  |                  |          |                  |
+| Tir  |                  |          |                  |
+| Ons  |                  |          |                  |
+| Tor  |                  |          |                  |
+| Fre  |                  |          |                  |
+| Lør  |                  |          |                  |
+| Søn  |                  |          |                  |
+| **Sum** | **… styrke, … jogg, … min gange** |          |                  |
+| *Eksempel* | Gange / Jogging / Styrke | 45 min | Rask gange, helkropp osv. |
 
 ---
 
 ## Søvn
-
-| Dag | Timer | Kommentar   |
-|-----|-------|-------------|
-| Man | …     | …           |
-| Tir | …     | …           |
-| Ons | …     | …           |
-| Tor | …     | …           |
-| Fre | …     | …           |
-| Lør | …     | …           |
-| Søn | …     | …           |
-| **Eksempel** | 7,5 | Sov godt |
-
-| **Snitt søvn** | … t |     |
+| Dag  | Timer søvn | Kommentar |
+|------|------------|-----------|
+| Man  |            |           |
+| Tir  |            |           |
+| Ons  |            |           |
+| Tor  |            |           |
+| Fre  |            |           |
+| Lør  |            |           |
+| Søn  |            |           |
+| *Eksempel* | 7,5 | Sovnet sent, våknet tidlig |
 
 ---
 
-## Kosthold
-
-| Dag | Måltider (kort) | Fisk (ja/nei) | Fiber (hovedkilde) | Kommentar |
-|-----|-----------------|----------------|---------------------|-----------|
-| Man | …               | …              | …                   | …         |
-| Tir | …               | …              | …                   | …         |
-| Ons | …               | …              | …                   | …         |
-| Tor | …               | …              | …                   | …         |
-| Fre | …               | …              | …                   | …         |
-| Lør | …               | …              | …                   | …         |
-| Søn | …               | …              | …                   | …         |
-| **Eksempel** | Havregrøt, kylling, brød | Ja | Grønnsaker | Bra dag |
-
-| **Fiskemåltider** | … / 2–3 | **Fiber etterlevelse** | … / 7 dager | **Avvik:** … |
+## Kost
+| Dag  | Måltider (kort) | Fiberkilder | Avvik |
+|------|-----------------|-------------|-------|
+| Man  |                 |             |       |
+| Tir  |                 |             |       |
+| Ons  |                 |             |       |
+| Tor  |                 |             |       |
+| Fre  |                 |             |       |
+| Lør  |                 |             |       |
+| Søn  |                 |             |       |
+| *Eksempel* | Havregrøt, fisk, grønnsaker | Havre, brokkoli | 1 kakebit |
 
 ---
 
-## Oppsummering
-
-| Parameter           | Verdi |
-|---------------------|-------|
-| Vekt (uke-slutt)    | … kg  |
-| Endring             | … kg  |
-| Etterlevelse totalt | … %   |
-| Notater             | …     |
-| **Eksempel** | Vekt: 96,5 kg, −0,5 kg denne uka |
+## Ukesoppsummering
+| Mål denne uka               | Status |
+|------------------------------|--------|
+| 150–210 min gange/jogg       | …      |
+| 2 styrkeøkter                | …      |
+| 1–3 joggeturer               | …      |
+| Etterlevelse kost (80 %+ )   | …      |
+| Snitt søvn 7+ timer          | …      |
