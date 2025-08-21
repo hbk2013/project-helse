@@ -1,1 +1,18 @@
+weight:
+  start: 97
+  target: 75
+  milestones:
+    3m: 87
+    6m: 81
+    12m: 75
+
+lipids:
+  total_start: 6.9
+  target_total: <5.0
+  target_ldl: <3.0
+  check_interval_months: 3
+
+activity:
+  weekly_minutes: 150
+  strength_sessions: 2-3
 
